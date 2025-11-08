@@ -14,7 +14,7 @@ Built with **React** and **Vite** for fast performance and a smooth user experie
 * React
 * Vite
 * JavaScript
-* CSS
+* TailwindCSS
 
 ## 💻 Getting Started
 
